@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfWithYourCheats", "GolfWithYourCheats\GolfWithYourCheats.csproj", "{27671A09-ACD8-4165-9FFB-2A900003A898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheatInstaller", "CheatInstaller\CheatInstaller.csproj", "{F6A168D0-DD41-49E8-8B8E-3E0770124193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27671A09-ACD8-4165-9FFB-2A900003A898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27671A09-ACD8-4165-9FFB-2A900003A898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27671A09-ACD8-4165-9FFB-2A900003A898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27671A09-ACD8-4165-9FFB-2A900003A898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A168D0-DD41-49E8-8B8E-3E0770124193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A168D0-DD41-49E8-8B8E-3E0770124193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A168D0-DD41-49E8-8B8E-3E0770124193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A168D0-DD41-49E8-8B8E-3E0770124193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CFAFFA-3EE3-476C-A405-1DE74A5919B9}
+	EndGlobalSection
+EndGlobal
